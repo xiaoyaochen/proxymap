@@ -1,6 +1,5 @@
-yscan
-technologies.json
 *.json
 vendor
 *.txt
 *.py
+proxymap
